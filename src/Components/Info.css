@@ -1,0 +1,10 @@
+.infosection {
+    background: rgb(255, 10, 10);
+    height: 100%;
+    width: 50%;
+    left: 0%;
+    color: wheat;
+}
+.infosection p{
+    background-color: transparent;
+}
