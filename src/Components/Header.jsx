@@ -6,7 +6,8 @@ const Header = () => {
     <div className='headersection'>
       <p>eeee
         eeeeee
-        eeeeeeffffffffff</p>
+        eeeeeef
+        fffffffff</p>
     </div>
   )
 }
