@@ -6,6 +6,7 @@ const App = () => {
   return (
     <>
       <Header />
+      
       <Info />
     </>
   );
